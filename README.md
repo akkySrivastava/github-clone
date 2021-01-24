@@ -1,19 +1,17 @@
 
 ## GitHub Clone
 
-### git clone https://github.com/JuhVieira/githubclone.git
+### git clone https://github.com/akkySrivastava/github-clone.git
 
-No diretório do projeto, rode os seguintes comandos:
+install all required dependencies
 ### `npm install`
 
 depois: 
 ### `npm start`
 
+Video tutorial is on youtube
 
-
-Para acessar o projeto no servidor, vá até o seguinte site:
-
-### https://github-clone-37970.firebaseapp.com/
+https://youtube.com/c/CodeWithAkky
 
 
 
